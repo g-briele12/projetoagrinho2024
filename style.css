@@ -1,12 +1,12 @@
-.cabeçalho{background-color: #0c0c0c; color:rgb(245, 235, 235); display: flex; justify-content: space-around;}
+.cabeçalho{background-color: #0f0f0f; color:rgb(255, 255, 255); display: flex; justify-content: space-around;}
 .imagem-logo{width: 80px;}
 .cabeçalho-lista{display: inline-block;margin:0 16px;}
-.site{background-color: rgba(245, 235, 235, 0); color: #141414;} 
+.site{background-color: rgba(14, 1, 1, 0); color: #f7f7f7;} 
 .imagem-carros {width: 180px; height: 130px;}
 .rodape{background-color: #181717; color:aliceblue; display: flex; justify-content: space-around;}
 .carros-div{display:inline-block}
 .carros{text-align: center; font-weight: 700;font-size: 20px;}
-.carros{text-align: center;background-color: rgba(244, 243, 250, 0.027);}
+.carros{text-align: center;background-color: rgba(20, 2, 2, 0.027);}
 .vendas{text-align: center;background-color: rgb(26, 27, 27);}
-.carros-titulo{color: #f7f3f3;}
-.valor{color: #f7f3f3;}
+.preparação-titulo{color: #f7f3f3;}
+.valor{color: #faf5f5;}
