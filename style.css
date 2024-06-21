@@ -2,7 +2,7 @@
 .imagem-logo{width: 80px;}
 .cabeçalho-lista{display: inline-block;margin:0 16px;}
 .site{background-color: rgba(14, 1, 1, 0); color: #f7f7f7;} 
-.imagem-carros {width: 180px; height: 130px;}
+.imagem-carros {width: 90px; height: 55px;}
 .rodape{background-color: #181717; color:aliceblue; display: flex; justify-content: space-around;}
 .carros-div{display:inline-block}
 .carros{text-align: center; font-weight: 700;font-size: 20px;}
